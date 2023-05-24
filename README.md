@@ -1,5 +1,5 @@
 # ChatPlus 网址公告板
-> 公告板网址：**[原始网址](http://www.chatplus.wiki/)**  
+> 公告板网址：**[原始网址](http://www.chatplus.wiki/)** | **[Github备用](https://github.com/chatplusAI/chatplusAI)**  
 > 登录入口经常换，**但公告板网址永不变**，请务必收藏本网址防失联！
 ## 登录网址：
 - ⚡国内入口1：[chat4.plus](http://www.chat4.plus)
