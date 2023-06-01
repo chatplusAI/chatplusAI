@@ -9,3 +9,10 @@
 > 请Ctrl+D将网址收藏，以备不时之需
 > 
 > 公众号：AI应用全搜索
+> 
+**相关链接：**  
+[APP下载](http://download.plusgpt.plus/)  
+[玩转AI教程](http://www.chatplus.blog)  
+[成品账号](http://chat.gptshop.plus/?from=1004)  
+[Midjuriney绘画](http://www.chat4.plus/#/drew)  
+[OpenAI API 余额](http://www.apikey.info)
