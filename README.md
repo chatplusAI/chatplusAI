@@ -16,3 +16,4 @@
 [成品账号](http://chat.gptshop.plus/?from=1004)  
 [Midjuriney绘画](http://www.chat4.plus/#/drew)  
 [OpenAI API 余额](http://www.apikey.info)
+<a href="http://download.plusgpt.plus/" target="_blank">APP下载</a>
